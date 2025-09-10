@@ -1,0 +1,6 @@
+OrderID,Date,Product,Category,Quantity,UnitPrice,TotalAmount,Store,PaymentMethod
+1001,2025-01-02,T-Shirt,Clothing,3,500,1500,Mumbai,UPI
+1002,2025-01-02,Jeans,Clothing,2,1200,2400,Pune,Card
+1003,2025-01-03,Headphones,Electronics,1,1500,1500,Delhi,COD
+1004,2025-01-04,Shoes,Footwear,1,2000,2000,Mumbai,UPI
+1005,2025-01-05,Laptop Bag,Accessories,2,800,1600,Bangalore,Card
